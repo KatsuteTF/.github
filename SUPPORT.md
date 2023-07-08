@@ -1,3 +1,3 @@
 ### Reporting Issues
 
-Report all issues in our [issue tracker](https://github.com/KatsuteTF/Issue-Tracker).
+Do not send issue reports to our emails or our maintainers, instead open in a new issue in the respective repository. Please check existing issues before opening a new ticket and follow issue forms.
