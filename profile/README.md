@@ -17,6 +17,7 @@
  * [RPS Teammate](https://github.com/KatsuteTF/RPS)
  * [RRM Additions](https://github.com/KatsuteTF/RRM-Additions)
  * [No Medieval](https://github.com/KatsuteTF/No-Medieval)
+ * [Spells](https://github.com/KatsuteTF/Spells/releases)
  * [Infinite Buildings](https://github.com/KatsuteTF/Infinite-Buildings)
  * [Upgradable Mini Sentry](https://github.com/KatsuteTF/Upgradable-Mini-Sentry)
 
