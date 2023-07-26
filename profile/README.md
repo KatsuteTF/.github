@@ -12,12 +12,13 @@
 
 #### Plugins
 
+ * [Ammo Box Despawn](https://github.com/KatsuteTF/Ammo-Box-Despawn)
  * [Cart Speed](https://github.com/KatsuteTF/Cart-Speed)
  * [Round Time](https://github.com/KatsuteTF/Round-Time)
  * [RPS Teammate](https://github.com/KatsuteTF/RPS)
  * [RRM Additions](https://github.com/KatsuteTF/RRM-Additions)
  * [No Medieval](https://github.com/KatsuteTF/No-Medieval)
- * [Spells](https://github.com/KatsuteTF/Spells/releases)
+ * [Spells](https://github.com/KatsuteTF/Spells)
  * [Infinite Buildings](https://github.com/KatsuteTF/Infinite-Buildings)
  * [Upgradable Mini Sentry](https://github.com/KatsuteTF/Upgradable-Mini-Sentry)
 
