@@ -32,3 +32,4 @@
 
  * [Machine Attacks](https://github.com/KatsuteTF/Machine-Attacks)
  * [Machine Attacks Damage Patch](https://github.com/KatsuteTF/Machine-Attacks-Damage-Patch)
+ * [Machine Attacks Intel Remover](https://github.com/KatsuteTF/Machine-Attacks-Intel-Remover)
