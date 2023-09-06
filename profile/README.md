@@ -17,6 +17,7 @@
  * [Round Time](https://github.com/KatsuteTF/Round-Time)
  * [RPS Teammate](https://github.com/KatsuteTF/RPS)
  * [RRM Additions](https://github.com/KatsuteTF/RRM-Additions)
+ * [MVM Teleport Cash](https://github.com/KatsuteTF/MVM-Teleport-Cash)
  * [No Medieval](https://github.com/KatsuteTF/No-Medieval)
  * [Spells](https://github.com/KatsuteTF/Spells)
  * [Infinite Buildings](https://github.com/KatsuteTF/Infinite-Buildings)
