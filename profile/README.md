@@ -19,6 +19,7 @@
  * [RRM Additions](https://github.com/KatsuteTF/RRM-Additions)
  * [MVM Teleport Cash](https://github.com/KatsuteTF/MVM-Teleport-Cash)
  * [No Medieval](https://github.com/KatsuteTF/No-Medieval)
+ * [No Truce](https://github.com/KatsuteTF/No-Truce)
  * [Spells](https://github.com/KatsuteTF/Spells)
  * [Infinite Buildings](https://github.com/KatsuteTF/Infinite-Buildings)
  * [Upgradable Mini Sentry](https://github.com/KatsuteTF/Upgradable-Mini-Sentry)
