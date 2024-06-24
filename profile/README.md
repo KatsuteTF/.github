@@ -12,6 +12,7 @@
 
 #### Plugins
 
+ * [TF100](https://github.com/KatsuteTF/TF100)
  * [Ammo Box Despawn](https://github.com/KatsuteTF/Ammo-Box-Despawn)
  * [Cart Speed](https://github.com/KatsuteTF/Cart-Speed)
  * [Round Time](https://github.com/KatsuteTF/Round-Time)
