@@ -27,7 +27,6 @@
 
 #### Forks
 
- * [friendlyfire](https://github.com/KatsuteTF/friendlyfire)
  * [GiveBotsStuff](https://github.com/KatsuteTF/GiveBotsStuff)
  * [RRM](https://github.com/KatsuteTF/RRM)
 
